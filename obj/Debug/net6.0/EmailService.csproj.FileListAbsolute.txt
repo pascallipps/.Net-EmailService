@@ -1,0 +1,12 @@
+D:\Repos\Shikari\EmailService\bin\Debug\net6.0\EmailService.deps.json
+D:\Repos\Shikari\EmailService\bin\Debug\net6.0\EmailService.dll
+D:\Repos\Shikari\EmailService\bin\Debug\net6.0\EmailService.pdb
+D:\Repos\Shikari\EmailService\obj\Debug\net6.0\EmailService.csproj.AssemblyReference.cache
+D:\Repos\Shikari\EmailService\obj\Debug\net6.0\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Shikari\EmailService\obj\Debug\net6.0\EmailService.AssemblyInfoInputs.cache
+D:\Repos\Shikari\EmailService\obj\Debug\net6.0\EmailService.AssemblyInfo.cs
+D:\Repos\Shikari\EmailService\obj\Debug\net6.0\EmailService.csproj.CoreCompileInputs.cache
+D:\Repos\Shikari\EmailService\obj\Debug\net6.0\EmailService.dll
+D:\Repos\Shikari\EmailService\obj\Debug\net6.0\refint\EmailService.dll
+D:\Repos\Shikari\EmailService\obj\Debug\net6.0\EmailService.pdb
+D:\Repos\Shikari\EmailService\obj\Debug\net6.0\ref\EmailService.dll
